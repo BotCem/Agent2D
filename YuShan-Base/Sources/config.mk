@@ -3,6 +3,7 @@
 # RoboCup2D @ Anhui Unversity of Technology
 # Bugs or Suggestions please mail to yushan2d@gmail.com
 # Thanks to Hidehisa AKIYAMA(Copyright)
+# BouncyBear modified Makefile for add C++11 support
 #===============================================================
 
 Player_Name     =   YuShan_Player
